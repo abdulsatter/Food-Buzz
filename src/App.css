@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+.header{
+  margin: 0px;
+  padding: 0px;
+  background-color: hsla(0, 56%, 8%, 0.87);
+  text-align: center;
+ 
+}
 
 .App-logo {
   height: 40vmin;
